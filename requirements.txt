@@ -3,9 +3,8 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-catboost==1.1.1
+catboost
 xgboost
-#pickle
 dill
 Flask
 #-e .
